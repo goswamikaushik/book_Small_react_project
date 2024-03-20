@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/book_Small_react_project/static/css/main.df3716d5.css",
+    "main.js": "/book_Small_react_project/static/js/main.eb6d8a90.js",
+    "index.html": "/book_Small_react_project/index.html",
+    "main.df3716d5.css.map": "/book_Small_react_project/static/css/main.df3716d5.css.map",
+    "main.eb6d8a90.js.map": "/book_Small_react_project/static/js/main.eb6d8a90.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df3716d5.css",
+    "static/js/main.eb6d8a90.js"
+  ]
+}
