@@ -1,84 +1,12 @@
 {
   "books": [
     {
-      "title": "kuashik",
+      "title": "kaushik goswami",
       "id": 1
     },
     {
-      "title": "kaushik",
+      "title": "kaushikk goswami",
       "id": 2
-    },
-    {
-      "title": "hello",
-      "id": 3
-    },
-    {
-      "title": "kaushik",
-      "id": 4
-    },
-    {
-      "title": "hello",
-      "id": 5
-    },
-    {
-      "title": "hac",
-      "id": 6
-    },
-    {
-      "title": "casa",
-      "id": 7
-    },
-    {
-      "title": "cas",
-      "id": 8
-    },
-    {
-      "title": "cas",
-      "id": 9
-    },
-    {
-      "title": "ascs",
-      "id": 10
-    },
-    {
-      "title": "as",
-      "id": 11
-    },
-    {
-      "title": "asc",
-      "id": 12
-    },
-    {
-      "title": "as",
-      "id": 13
-    },
-    {
-      "title": "ascc",
-      "id": 14
-    },
-    {
-      "title": "ascc",
-      "id": 15
-    },
-    {
-      "title": "ascc",
-      "id": 16
-    },
-    {
-      "title": "aasc",
-      "id": 17
-    },
-    {
-      "title": "aascsc",
-      "id": 18
-    },
-    {
-      "title": "ass",
-      "id": 19
-    },
-    {
-      "title": "ass",
-      "id": 20
     }
   ]
 }
